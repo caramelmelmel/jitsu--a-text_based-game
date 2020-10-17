@@ -1,11 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Libraries and Modules
-#
-
-# In[13]:
-
+# Libraries and Modules
 
 # install the following libraries used using the pip command above in the anaconda environment on the macbook air and macbook pro
 import libdw
